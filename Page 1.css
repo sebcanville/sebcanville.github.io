@@ -1,0 +1,75 @@
+body
+{
+    background-color: whitesmoke;
+}
+
+
+h1
+{
+    color: ghostwhite;
+    font-weight: bold;
+    text-align: center;
+    border: 3px black solid;
+    box-shadow: 6px 6px 0px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: darkslategrey;
+}
+
+
+h2
+{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.attention
+{
+   text-align: center;
+}
+
+
+.explication
+{
+   border: 3px black solid;
+   border-radius: 10px;
+   text-align: justify;
+   margin-left: auto;
+   padding-left: 10px;
+   padding-right: 10px;
+   font-size: 20px
+}
+
+
+h3
+{
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.modif
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.formation
+{
+    font-size: 20px
+}
+
+a:hover 
+{
+  font-weight:bold;
+}
+
+.CV
+{
+  background-color: yellowgreen;
+  color: purple;
+}
